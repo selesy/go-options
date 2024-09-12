@@ -135,7 +135,7 @@ The name `Option` can be customized along with various method names as shown und
 
 ## Installation
 
-Install with `go get -u github.com/launchdarkly/go-options`.
+Install with `go get -u github.com/selesy/go-options`.
 
 ## Tag Syntax
 
